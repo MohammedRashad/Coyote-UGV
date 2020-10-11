@@ -3,11 +3,9 @@ Giant UGV Robot controlled via smartphone <br/>
 
 More or less a port of [Hydra ROV](https://github.com/MohammedRashad/Hydra-ROV)
 
-
 # Notes
-**This project is work for Gunners Team (Faculty of Engineering, Suez Canal University).**
-
-**This project was made for International UGV competition.**
+- This project is work for Gunners Team (Faculty of Engineering, Suez Canal University).
+- This project was made for International UGV competition.
 
 # Project Structure 
 
